@@ -16,6 +16,6 @@ window.onload = () => {
     audiLogo.style.opacity = '1';
     
     setTimeout(() => {
-        audiLogo.style.opacity = '0'; 
+        audiLogo.style.opacity = '1'; 
     }, 2000);
 };
